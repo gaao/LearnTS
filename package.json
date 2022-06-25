@@ -1,0 +1,13 @@
+{
+  "name": "LearnTS",
+  "version": "1.0.0",
+  "description": "learnTS note",
+  "main": "index.js",
+  "repository": "git@github.com:gaao/LearnTS.git",
+  "author": "GXG <936806643@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^10.8.1",
+    "typescript": "^4.8.0-dev.20220621"
+  }
+}
